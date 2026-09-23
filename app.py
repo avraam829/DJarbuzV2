@@ -103,7 +103,7 @@ class PhraseSegmenter:
     def flush(self) -> list[np.ndarray]:
         with self._lock:
             return self._finish_locked()
-
+# функция _finish_locked() завершает текущую фразу, если она существует, и возвращает список с объединенными аудиоданными. Если фраза слишком короткая или отсутствует, возвращается пустой список.
     def _finish_locked(self) -> list[np.ndarray]:
         chunks, speech = self._chunks, self._speech_samples
         self._chunks = []
