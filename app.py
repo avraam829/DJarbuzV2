@@ -112,7 +112,7 @@ class PhraseSegmenter:
             return []
         return [np.concatenate(chunks).astype(np.float32, copy=False)]
 
-
+# класс делает невозможным изменение полей после создания экземпляра, что обеспечивает неизменяемость данных об аудиоустройстве.
 @dataclass(frozen=True)
 class AudioDevice:
     index: int
