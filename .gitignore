@@ -1,0 +1,10 @@
+.venv/
+assets/
+cache/
+__pycache__/
+*.pyc
+output/
+training/data/
+training/models/
+training/checkpoints/
+training/hf-cache/

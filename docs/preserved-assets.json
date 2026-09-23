@@ -1,0 +1,494 @@
+[
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\models\\F5-TTS-Russian\\model_last.safetensors",
+    "destination": "assets\\f5-russian-base\\model_last.safetensors",
+    "bytes": 1348435761,
+    "sha256": "f6cf6e0e8f7a5c0d1303710729fc44dbdea58e31c69a90d8aaa0f00c37e034c4"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\models\\F5-TTS-Russian\\vocab.txt",
+    "destination": "assets\\f5-russian-base\\vocab.txt",
+    "bytes": 13800,
+    "sha256": "2a05f992e00af9b0bd3800a8d23e78d520dbd705284ed2eedb5f4bd29398fa3c"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\ckpts\\dj_arbuz\\model_last.pt",
+    "destination": "assets\\dj-arbuz\\model_last.pt",
+    "bytes": 3383361037,
+    "sha256": "49923b58c5f625a378a0b382141ab36bae6b4ba987f02e75d1bae011ce545f45"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\ckpts\\dj_arbuz\\setting.json",
+    "destination": "assets\\dj-arbuz\\setting.json",
+    "bytes": 645,
+    "sha256": "22ba87fad7dd902e2055551bde51cebb7bf10d5da0322f10d78a0b534b020ee9"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\duration.json",
+    "destination": "assets\\training\\prepared\\duration.json",
+    "bytes": 259,
+    "sha256": "a8da8a19680703246ab19ece21c2bf9ab834c57cb2f30bab9f36d7048c5ac740"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\metadata.csv",
+    "destination": "assets\\training\\prepared\\metadata.csv",
+    "bytes": 1548,
+    "sha256": "2ef9d4065849dd041be3b6d6d8005ea2dd5fc8462d1719cf8c2ee3cc4618efff"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\raw.arrow",
+    "destination": "assets\\training\\prepared\\raw.arrow",
+    "bytes": 7048,
+    "sha256": "b4da3318542c01baecdd0da8219d4b3f13d04bc03039dc813d9e7c51fa610931"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\vocab.txt",
+    "destination": "assets\\training\\prepared\\vocab.txt",
+    "bytes": 13800,
+    "sha256": "2a05f992e00af9b0bd3800a8d23e78d520dbd705284ed2eedb5f4bd29398fa3c"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0001.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0001.wav",
+    "bytes": 285962,
+    "sha256": "e1e32f5d593e2f1b7c55cefd6ccafc3730aa61e7a6c4255624b368d7336f099c"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0002.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0002.wav",
+    "bytes": 259630,
+    "sha256": "2460791596a45c881116757cd612ea5d20c5b470cffb28e7d61c62c328b2dce7"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0003.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0003.wav",
+    "bytes": 203206,
+    "sha256": "3867823754a459b5086e34532105bbf167175096ad0fece39e6eaeb8a427382d"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0004.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0004.wav",
+    "bytes": 250854,
+    "sha256": "b46bf02a27d9128567a70ad440367a9fd2f6f19d444255b74c1508fe4987cedd"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0005.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0005.wav",
+    "bytes": 234554,
+    "sha256": "9bbf5c85aa044063a0229a5b9209c35e743f5abe13f4b075ca78a3770529cb27"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0006.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0006.wav",
+    "bytes": 285962,
+    "sha256": "120c83b3144ce191c744103fcb9838c8a02a784479d014211bc531d86c35595c"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0007.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0007.wav",
+    "bytes": 243330,
+    "sha256": "4486b36d29265e14bdfd672a8ebd812e30114f370d315b4430252bb46326882c"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0008.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0008.wav",
+    "bytes": 428904,
+    "sha256": "95ea7dddddbebaaa7a47db3bf5fcba6c4e8f7e6cc14860d8b3a68dcc0c0e27f0"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0009.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0009.wav",
+    "bytes": 554292,
+    "sha256": "2f3f471008adeb8d624825304278a67e74b9fdbeeed73c457920be24f8960dd2"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0010.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0010.wav",
+    "bytes": 228284,
+    "sha256": "43985c5316277e96c23aefd0a40189a723817ed0fd7f81e2aaff7184fe920413"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0011.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0011.wav",
+    "bytes": 205714,
+    "sha256": "3cf7c914d79e11bfe3d17ad7f1a285534ca15a94f4d86a912b503bd3a797b58e"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0012.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0012.wav",
+    "bytes": 219506,
+    "sha256": "cabf21ef5c8f94263b32196b696974f5e4c0ff6abb8861e46a77299355a71a29"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0013.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0013.wav",
+    "bytes": 213238,
+    "sha256": "355edc1f4fb71eaab608b41b1e1fa636cb5378d602c72999a3dfe2bc7d3780e3"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0015.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0015.wav",
+    "bytes": 259630,
+    "sha256": "9211db064e427142dadbf23154b85ffc18f886af69473a394a9b8aa0ef1a2048"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0016.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0016.wav",
+    "bytes": 254616,
+    "sha256": "5825f2fae9255ecb584eb9ff322faead3e441c33c124680df0a03fc71255ab30"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\data\\dj_arbuz_char\\wavs\\0017.wav",
+    "destination": "assets\\training\\prepared\\wavs\\0017.wav",
+    "bytes": 194430,
+    "sha256": "d6a6fbcb23747dd58ac858c5d695fd9dd00815c5445a6c06096a7ac1209158c0"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\metadata.csv",
+    "destination": "assets\\training\\dataset\\metadata.csv",
+    "bytes": 1548,
+    "sha256": "2ef9d4065849dd041be3b6d6d8005ea2dd5fc8462d1719cf8c2ee3cc4618efff"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0001.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0001.wav",
+    "bytes": 285962,
+    "sha256": "e1e32f5d593e2f1b7c55cefd6ccafc3730aa61e7a6c4255624b368d7336f099c"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0002.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0002.wav",
+    "bytes": 259630,
+    "sha256": "2460791596a45c881116757cd612ea5d20c5b470cffb28e7d61c62c328b2dce7"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0003.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0003.wav",
+    "bytes": 203206,
+    "sha256": "3867823754a459b5086e34532105bbf167175096ad0fece39e6eaeb8a427382d"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0004.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0004.wav",
+    "bytes": 250854,
+    "sha256": "b46bf02a27d9128567a70ad440367a9fd2f6f19d444255b74c1508fe4987cedd"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0005.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0005.wav",
+    "bytes": 234554,
+    "sha256": "9bbf5c85aa044063a0229a5b9209c35e743f5abe13f4b075ca78a3770529cb27"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0006.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0006.wav",
+    "bytes": 285962,
+    "sha256": "120c83b3144ce191c744103fcb9838c8a02a784479d014211bc531d86c35595c"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0007.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0007.wav",
+    "bytes": 243330,
+    "sha256": "4486b36d29265e14bdfd672a8ebd812e30114f370d315b4430252bb46326882c"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0008.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0008.wav",
+    "bytes": 428904,
+    "sha256": "95ea7dddddbebaaa7a47db3bf5fcba6c4e8f7e6cc14860d8b3a68dcc0c0e27f0"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0009.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0009.wav",
+    "bytes": 554292,
+    "sha256": "2f3f471008adeb8d624825304278a67e74b9fdbeeed73c457920be24f8960dd2"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0010.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0010.wav",
+    "bytes": 228284,
+    "sha256": "43985c5316277e96c23aefd0a40189a723817ed0fd7f81e2aaff7184fe920413"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0011.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0011.wav",
+    "bytes": 205714,
+    "sha256": "3cf7c914d79e11bfe3d17ad7f1a285534ca15a94f4d86a912b503bd3a797b58e"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0012.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0012.wav",
+    "bytes": 219506,
+    "sha256": "cabf21ef5c8f94263b32196b696974f5e4c0ff6abb8861e46a77299355a71a29"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0013.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0013.wav",
+    "bytes": 213238,
+    "sha256": "355edc1f4fb71eaab608b41b1e1fa636cb5378d602c72999a3dfe2bc7d3780e3"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0015.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0015.wav",
+    "bytes": 259630,
+    "sha256": "9211db064e427142dadbf23154b85ffc18f886af69473a394a9b8aa0ef1a2048"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0016.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0016.wav",
+    "bytes": 254616,
+    "sha256": "5825f2fae9255ecb584eb9ff322faead3e441c33c124680df0a03fc71255ab30"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\dataset\\wavs\\0017.wav",
+    "destination": "assets\\training\\dataset\\wavs\\0017.wav",
+    "bytes": 194430,
+    "sha256": "d6a6fbcb23747dd58ac858c5d695fd9dd00815c5445a6c06096a7ac1209158c0"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\1.mp3",
+    "destination": "assets\\training\\raw\\1.mp3",
+    "bytes": 95293,
+    "sha256": "ab2df3b86d2652b12ccb3feafcba3bcd9669ea98edf606058ae789e467f6ebf4"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\1.txt",
+    "destination": "assets\\training\\raw\\1.txt",
+    "bytes": 113,
+    "sha256": "3773fe0a61414af28439dd20cb8675c98a35d5b0fb48494e37ac9b7a2e6e8e2e"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\10.mp3",
+    "destination": "assets\\training\\raw\\10.mp3",
+    "bytes": 76067,
+    "sha256": "8aa4472e4c0228ad8c55cbc98566c8192bda13193c5afce5e396eb31f8a3d44f"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\10.txt",
+    "destination": "assets\\training\\raw\\10.txt",
+    "bytes": 82,
+    "sha256": "77ea482383da40c39c44a0e906b9337e4a7d6d6d6b1536204c4c35ab7c54e722"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\11.mp3",
+    "destination": "assets\\training\\raw\\11.mp3",
+    "bytes": 68544,
+    "sha256": "6d993f73359b1d7b0f5dc044a5601878b3ece9868f519767d89489bf6f623642"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\11.txt",
+    "destination": "assets\\training\\raw\\11.txt",
+    "bytes": 80,
+    "sha256": "23af61d90e85d55042aaca2c95d62bbdcf62485dbbcb3054cfe51781f22aa11a"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\12.mp3",
+    "destination": "assets\\training\\raw\\12.mp3",
+    "bytes": 73141,
+    "sha256": "bb02743b039a84610de819c4a2e7c417ae8544e124c6bf2d6b599f72b57db4ab"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\12.txt",
+    "destination": "assets\\training\\raw\\12.txt",
+    "bytes": 64,
+    "sha256": "596f9bacc80c5fba523fdb0f027e5d2eddc2a9ceb300f04f9c25a62b19b3c729"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\13.mp3",
+    "destination": "assets\\training\\raw\\13.mp3",
+    "bytes": 71052,
+    "sha256": "0f5a344c164a67f03f68efbf31dbb82e0678ffb12c551c94b727b0c4e0b6954a"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\13.txt",
+    "destination": "assets\\training\\raw\\13.txt",
+    "bytes": 85,
+    "sha256": "3ff47ae628ccd76d43258213f93a11b8d08682a57fc2973aafefa178815712b4"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\14.mp3",
+    "destination": "assets\\training\\raw\\14.mp3",
+    "bytes": 79829,
+    "sha256": "4c4ad3443d5a7cf5aa8410c867cbd3fcb5a2f16049423d4d7d2897b579dc5e02"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\15.txt",
+    "destination": "assets\\training\\raw\\15.txt",
+    "bytes": 86,
+    "sha256": "049ea0cd501435216d9a961338af0f04add4b2b4bb7ded2571a99c99a63c3b75"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\16.mp3",
+    "destination": "assets\\training\\raw\\16.mp3",
+    "bytes": 86516,
+    "sha256": "cd3fef594e0e9cd89d04824bd1dfa7bada60795cacf6a10eb62ec04ef8771620"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\16.txt",
+    "destination": "assets\\training\\raw\\16.txt",
+    "bytes": 88,
+    "sha256": "bcbfbbf9f978f7ac3f3e00c74183cdf370ca9e3f3fb4cee524be1fcf2c087a3b"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\17.mp3",
+    "destination": "assets\\training\\raw\\17.mp3",
+    "bytes": 84844,
+    "sha256": "f47e1b3a355c21fcd68c006280071b2abed9d63c79b9605f0c539f693d0584ce"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\17.txt",
+    "destination": "assets\\training\\raw\\17.txt",
+    "bytes": 91,
+    "sha256": "7c9b1a7d1ee402875bcf8adc99e81746223abc6bd29bc67c8d0cba28975ebbd7"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\18.mp3",
+    "destination": "assets\\training\\raw\\18.mp3",
+    "bytes": 64782,
+    "sha256": "9c9e2663b69e7ab37a0cd86b0ce43698519630310de3f4030a0463ce5f387c04"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\18.txt",
+    "destination": "assets\\training\\raw\\18.txt",
+    "bytes": 78,
+    "sha256": "09e35b0b68db9368483b820da640aed77fa8717a5b252823eee672c17475fe57"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\2.mp3",
+    "destination": "assets\\training\\raw\\2.mp3",
+    "bytes": 86516,
+    "sha256": "dc7c97ce69434ce351e3014bd29377bbec84cea197aa52f3ad7b641787eb7cd3"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\2.txt",
+    "destination": "assets\\training\\raw\\2.txt",
+    "bytes": 81,
+    "sha256": "85d89a264a35be5909197fd4c8da76174ff9e2d7d27abaebd9e17ddb92bb69bb"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\3.mp3",
+    "destination": "assets\\training\\raw\\3.mp3",
+    "bytes": 67708,
+    "sha256": "d32c181c7a01dc5c2930ca3f0d362c9a8a10a83b0e699b95da1b1e342720acb7"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\3.txt",
+    "destination": "assets\\training\\raw\\3.txt",
+    "bytes": 63,
+    "sha256": "92295f1eb7b45e7bebde074fc03305b4f33d3a4d013d7557ce1948fbcaeedc1e"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\4.mp3",
+    "destination": "assets\\training\\raw\\4.mp3",
+    "bytes": 83590,
+    "sha256": "cb112ffde61bfecfd7af181dbe3305932e254c19bb2cb94ba53ce068c2c0886a"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\4.txt",
+    "destination": "assets\\training\\raw\\4.txt",
+    "bytes": 88,
+    "sha256": "09254b06eff02435322f6635da1c9f921f782ab688dccf761332edfc28f481ae"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\5.mp3",
+    "destination": "assets\\training\\raw\\5.mp3",
+    "bytes": 78157,
+    "sha256": "3a5720031268d326ac6911044aced2ef8a43863ddd2642ada408f7437e76696c"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\5.txt",
+    "destination": "assets\\training\\raw\\5.txt",
+    "bytes": 78,
+    "sha256": "ad76a22c2c7f74b74058c74c62e5d4de1e5ac74b2f8c4050a4e702abe9c7dc0c"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\6.mp3",
+    "destination": "assets\\training\\raw\\6.mp3",
+    "bytes": 95293,
+    "sha256": "79c8394e3d04437277a84638fccb79fada3012a5ec5078f87d79d394437adad4"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\6.txt",
+    "destination": "assets\\training\\raw\\6.txt",
+    "bytes": 39,
+    "sha256": "3aa7592df416248463b4d640cc9472cdf808ec3f0e6318f7ca3bfb7140941c6a"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\7.mp3",
+    "destination": "assets\\training\\raw\\7.mp3",
+    "bytes": 81083,
+    "sha256": "11bb2d28dae5af395aa643e0ca4ea4ad827fbb28c05612a4a22eb6f388172eab"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\7.txt",
+    "destination": "assets\\training\\raw\\7.txt",
+    "bytes": 73,
+    "sha256": "c9cd69fddf907b32cf4450c5210561a39d518486d7bad950ddb6dc91d1c8e7d9"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\8.mp3",
+    "destination": "assets\\training\\raw\\8.mp3",
+    "bytes": 142941,
+    "sha256": "3e26087aeb165616e6413711b0fdf075405e87474370528be05654aedb09c205"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\8.txt",
+    "destination": "assets\\training\\raw\\8.txt",
+    "bytes": 113,
+    "sha256": "b367ecd9f30e799960343b64cb399c686d365a5ac6d1b798cccfb3055a62eba8"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\9.mp3",
+    "destination": "assets\\training\\raw\\9.mp3",
+    "bytes": 184737,
+    "sha256": "52411e72b76f983e6b36e175b24100ffe2648f748e58fa4546118445b9072e48"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\raw\\9.txt",
+    "destination": "assets\\training\\raw\\9.txt",
+    "bytes": 217,
+    "sha256": "2e21682ee6f538caf3a80188789f654499496b31e7182dfbc3634c22a20c4403"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\prepare_dataset.py",
+    "destination": "assets\\training\\prepare_dataset.py",
+    "bytes": 1853,
+    "sha256": "cd74ffe232020c9a3eff291c7d5068f3633b477bb0ad2c54cf6404c21e8c275d"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\src\\f5_tts\\configs\\E2TTS_Base.yaml",
+    "destination": "assets\\training\\model-configs\\E2TTS_Base.yaml",
+    "bytes": 2052,
+    "sha256": "511f3a850463d828a61e1e37150ee20ddb9b6386c8bef500ba69601fccc9962f"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\src\\f5_tts\\configs\\E2TTS_Small.yaml",
+    "destination": "assets\\training\\model-configs\\E2TTS_Small.yaml",
+    "bytes": 1978,
+    "sha256": "a23a7db30f23dabe8500c0d52644c8ff784aa54578c07984ad67feac1b3c8ca8"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\src\\f5_tts\\configs\\F5TTS_Base.yaml",
+    "destination": "assets\\training\\model-configs\\F5TTS_Base.yaml",
+    "bytes": 2292,
+    "sha256": "c0f08bde08e625300a04be57fb67b2b337b2290ce98ffdb0dc3426440e936660"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\src\\f5_tts\\configs\\F5TTS_Small.yaml",
+    "destination": "assets\\training\\model-configs\\F5TTS_Small.yaml",
+    "bytes": 2326,
+    "sha256": "03f238829e9f21479f695d2fd040131467e4ef07197a018099a25d6ee029e4cc"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\src\\f5_tts\\configs\\F5TTS_v1_Base.yaml",
+    "destination": "assets\\training\\model-configs\\F5TTS_v1_Base.yaml",
+    "bytes": 2335,
+    "sha256": "3f016f76a68dda288c721dd903e3660463cae0909926391023ab14b4d67e7a31"
+  },
+  {
+    "source": "C:\\Users\\Veronika\\Documents\\Artem\\DJArbuz\\F5-TTS\\src\\f5_tts\\configs\\F5TTS_v1_Small.yaml",
+    "destination": "assets\\training\\model-configs\\F5TTS_v1_Small.yaml",
+    "bytes": 2344,
+    "sha256": "776fd5aecde664e95f51821af3c9e55b90a18e3a7f698b25114d8dceb366ff1d"
+  }
+]

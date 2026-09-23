@@ -1,0 +1,29 @@
+services:
+  f5tts:
+    image: ghcr.io/swivid/f5-tts:main
+    container_name: djarbuz-f5-training
+
+    gpus: all
+
+    ports:
+      - "7860:7860"
+
+    environment:
+      HF_HOME: /workspace/hf-cache
+      HF_HUB_DISABLE_TELEMETRY: "1"
+      PYTHONUNBUFFERED: "1"
+
+    volumes:
+      - ./data:/workspace/F5-TTS/data
+      - ./models:/workspace/models
+      - ./checkpoints:/workspace/F5-TTS/ckpts
+      - ./hf-cache:/workspace/hf-cache
+
+    shm_size: "4gb"
+
+    command:
+      - f5-tts_finetune-gradio
+      - --host
+      - 0.0.0.0
+      - --port
+      - "7860"

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "mode": "balanced",
+  "risk": "high",
+  "revision": "in-progress",
+  "parent": {
+    "agent_id": "/root",
+    "requested_model": "gpt-6-astra",
+    "requested_effort": "unobservable",
+    "routing_proof_required": false,
+    "unconfirmed_disclosure": "Parent effort and realized delegate settings unobservable; parent settings preserved"
+  },
+  "work": [
+    {
+      "id": "model_audit", "kind": "discovery", "roles": ["explorer"],
+      "status": "completed", "required": true, "read_only": true,
+      "fresh_context": true, "ownership": ["assets", "docs/preserved-assets.json"],
+      "depends_on": [], "agent_id": "/root/model_audit",
+      "requested_model": "gpt-5.6-terra", "requested_effort": "high",
+      "dispatch_source": "collaboration.spawn_agent schema explicit model/effort/fork_turns=none",
+      "routing_proof_required": false, "unconfirmed_disclosure": "Realized settings unobservable",
+      "evidence": "Confirmed F5TTS_Base config, final SHA256, vocab and Vocos copies; old size and process audit"
+    },
+    {
+      "id": "ui", "kind": "implementation", "roles": ["worker", "tester"],
+      "status": "completed", "required": true, "read_only": false,
+      "fresh_context": true, "ownership": ["app.py", "tests/test_capture.py"],
+      "depends_on": [], "agent_id": "/root/ui",
+      "requested_model": "gpt-5.6-terra", "requested_effort": "high",
+      "dispatch_source": "collaboration.spawn_agent schema explicit model/effort/fork_turns=none",
+      "routing_proof_required": false, "unconfirmed_disclosure": "Realized settings unobservable",
+      "evidence": "Five segmentation/load-retry/cancellation tests passed; parent requested one bounded correction"
+    }
+  ],
+  "budget": {"dispatches": 6, "corrections": 3, "reviews": 2},
+  "parent_corrections": 0
+}

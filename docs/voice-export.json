@@ -1,0 +1,8 @@
+{
+  "source": "assets\\dj-arbuz\\model_last.pt",
+  "output": "assets\\dj-arbuz\\voice.safetensors",
+  "tensors": 366,
+  "step": "unknown",
+  "exact_tensor_equality": true,
+  "bytes": 1348435761
+}
